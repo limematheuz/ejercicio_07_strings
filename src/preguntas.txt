@@ -1,0 +1,450 @@
+
+1\. ¿Qué es Java?
+
+A) Un sistema operativo
+B) Un lenguaje de programación
+C) Un navegador web
+D) Un programa de diseño
+
+Respuesta correcta: B) Un lenguaje de programación.
+
+2\. ¿Quién creó Java?
+
+A) Bill Gates
+B) Steve Jobs
+C) James Gosling
+D) Mark Zuckerberg
+
+Respuesta correcta: C) James Gosling.
+
+3\. ¿En qué año se lanzó Java oficialmente?
+
+A) 1995
+B) 2000
+C) 1985
+D) 2010
+
+Respuesta correcta: A) 1995.
+
+4\. ¿Qué extensión tienen los archivos de código fuente Java?
+
+A) .html
+B) .py
+C) .exe
+D) .java
+
+Respuesta correcta: D) .java.
+
+5\. ¿Qué extensión tienen los archivos compilados de Java?
+
+A) .txt
+B) .class
+C) .doc
+D) .js
+
+Respuesta correcta: B) .class.
+
+6\. ¿Qué significa JVM?
+
+A) Java Virtual Machine
+B) Java Visual Method
+C) Java Variable Manager
+D) Java Version Model
+
+Respuesta correcta: A) Java Virtual Machine.
+
+7\. ¿Qué método se utiliza como punto de entrada de un programa Java tradicional?
+
+A) start()
+B) run()
+C) main()
+D) execute()
+
+Respuesta correcta: C) main().
+
+8\. ¿Qué palabra se utiliza para declarar una clase en Java?
+
+A) function
+B) class
+C) define
+D) object
+
+Respuesta correcta: B) class.
+
+9\. ¿Qué símbolo se utiliza para finalizar normalmente una instrucción en Java?
+
+A) .
+B) :
+C) ,
+D) ;
+
+Respuesta correcta: D) ;
+
+10\. ¿Cuál de estos tipos de datos almacena números enteros?
+
+A) int
+B) String
+C) boolean
+D) char
+
+Respuesta correcta: A) int.
+
+11\. ¿Qué tipo de dato almacena valores verdadero o falso?
+
+A) int
+B) double
+C) boolean
+D) String
+
+Respuesta correcta: C) boolean.
+
+12\. ¿Qué tipo de dato se utiliza para almacenar texto?
+
+A) char\
+B) String\
+C) float\
+D) boolean
+
+Respuesta correcta: B) String.
+
+13\. ¿Qué palabra se utiliza para crear un objeto?
+
+A) class
+B) this
+C) static
+D) new
+
+Respuesta correcta: D) new.
+
+14\. ¿Cómo se muestra un mensaje por consola?
+
+A) System.out.println()
+B) Console.write()
+C) print.console()
+D) echo()
+
+Respuesta correcta: A) System.out.println().
+
+15\. ¿Qué operador se utiliza para sumar dos números?
+
+A) -
+B) \*
+C) +
+D) /
+
+Respuesta correcta: C) +.
+
+16\. ¿Qué operador comprueba si dos valores son iguales?
+
+A) =
+B) ==
+C) !=
+D) >=
+
+Respuesta correcta: B) ==.
+
+17\. ¿Qué estructura permite tomar decisiones en Java?
+
+A) for
+B) while
+C) switch
+D) if
+
+Respuesta correcta: D) if.
+
+18\. ¿Qué estructura permite repetir instrucciones un número determinado de veces?
+
+A) for
+B) if
+C) switch
+D) break
+
+Respuesta correcta: A) for.
+
+19\. ¿Qué palabra permite salir de un bucle?
+
+A) continue
+B) return
+C) break
+D) stop
+
+Respuesta correcta: C) break.
+
+20\. ¿Qué palabra permite saltar a la siguiente iteración de un bucle?
+
+A) break
+B) continue
+C) exit
+D) next
+
+Respuesta correcta: B) continue.
+
+21\. ¿Qué es un array?
+
+A) Un tipo de bucle
+B) Una clase especial de texto
+C) Un operador matemático
+D) Una estructura que almacena varios elementos del mismo tipo
+
+Respuesta correcta: D) Una estructura que almacena varios elementos del mismo tipo.
+
+22\. ¿Desde qué posición empiezan los índices de un array en Java?
+
+A) 0
+B) 1
+C) -1
+D) 2
+
+Respuesta correcta: A) 0.
+
+23\. ¿Qué palabra se utiliza para declarar una constante?
+
+A) const\
+B) static\
+C) final\
+D) fixed
+
+Respuesta correcta: C) final.
+
+24\. ¿Qué significa OOP?
+
+A) Open Operating Program
+B) Object-Oriented Programming
+C) Online Object Process
+D) Output Operation Program
+
+Respuesta correcta: B) Object-Oriented Programming.
+
+25\. ¿Qué es una clase en Java?
+
+A) Un bucle
+B) Una variable
+C) Un operador
+D) Una plantilla para crear objetos
+
+Respuesta correcta: D) Una plantilla para crear objetos.
+
+26\. ¿Qué es un objeto?
+
+A) Una instancia de una clase
+B) Un comentario
+C) Un método obligatorio
+D) Una palabra reservada
+
+Respuesta correcta: A) Una instancia de una clase.
+
+27\. ¿Qué es la herencia en Java?
+
+A) Eliminar una clase
+B) Crear variables
+C) Permitir que una clase herede características de otra
+D) Repetir un método
+
+Respuesta correcta: C) Permitir que una clase herede características de otra.
+
+28\. ¿Qué palabra se utiliza para heredar de una clase?
+
+A) implements
+B) extends
+C) inherits
+D) super
+
+Respuesta correcta: B) extends.
+
+29\. ¿Qué palabra se utiliza para implementar una interfaz?
+
+A) extends
+B) interface
+C) implements
+D) import
+
+Respuesta correcta: C) implements.
+
+30\. ¿Qué es un constructor?
+
+A) Un método especial que se ejecuta al crear un objeto\
+B) Una variable global
+C) Un tipo de bucle
+D) Una estructura condicional
+
+Respuesta correcta: A) Un método especial que se ejecuta al crear un objeto.
+
+31\. ¿Qué palabra hace referencia al objeto actual?
+
+A) super
+B) object
+C) current
+D) this
+
+Respuesta correcta: D) this.
+
+32\. ¿Qué palabra permite acceder a miembros de la clase padre?
+
+A) this
+B) super
+C) parent
+D) extends
+
+Respuesta correcta: B) super.
+
+33\. ¿Qué significa encapsulamiento?
+
+A) Repetir código
+B) Crear muchos objetos
+C) Proteger y controlar el acceso a los datos de una clase
+D) Eliminar métodos
+
+Respuesta correcta: C) Proteger y controlar el acceso a los datos de una clase.
+
+34\. ¿Qué modificador permite acceder a un elemento desde cualquier clase?
+
+A) public
+B) private
+C) protected
+D) static
+
+Respuesta correcta: A) public.
+
+35. ¿Qué modificador restringe el acceso al interior de la propia clase?
+
+A) public
+B) protected
+C) static
+D) private
+
+Respuesta correcta: D) private.
+
+36\. ¿Qué significa que un método sea static?
+
+A) Que es privado
+B) Que pertenece a la clase y no necesita una instancia para invocarse
+C) Que no puede ejecutarse
+D) Que siempre devuelve un número
+
+Respuesta correcta: B) Que pertenece a la clase y no necesita una instancia para invocarse.
+
+37\. ¿Qué es el polimorfismo?
+
+A) Crear variables
+B) Eliminar objetos
+C) Permitir que un mismo tipo tenga diferentes comportamientos
+D) Repetir instrucciones
+
+Respuesta correcta: C) Permitir que un mismo tipo tenga diferentes comportamientos.
+
+38\. ¿Qué palabra se utiliza para gestionar excepciones?
+
+A) try
+B) repeat
+C) check
+D) error
+
+Respuesta correcta: A) try.
+
+39\. ¿Qué bloque se ejecuta cuando se produce una excepción compatible?
+
+A) try
+B) finally
+C) throw
+D) catch
+
+Respuesta correcta: D) catch.
+
+40. ¿Qué bloque suele ejecutarse al finalizar una estructura try-catch, haya o no excepción?
+
+A) switch
+B) finally
+C) break
+D) static
+
+Respuesta correcta: B) finally.
+
+41. ¿Qué palabra se utiliza para lanzar una excepción manualmente?
+
+A) catch
+B) try
+C) throw
+D) final
+
+Respuesta correcta: C) throw.
+
+42\. ¿Qué paquete contiene clases básicas como String y Math?
+
+A) java.lang
+B) java.util
+C) java.io
+D) java.net
+
+Respuesta correcta: A) java.lang.
+
+43. ¿Qué clase permite generar números aleatorios?
+
+A) Scanner
+B) Math
+C) String
+D) Random
+
+Respuesta correcta: D) Random.
+
+44. ¿Qué clase permite leer datos introducidos por teclado de forma sencilla?
+
+A) System
+B) Scanner
+C) Random
+D) File
+
+Respuesta correcta: B) Scanner.
+
+45. ¿Qué instrucción permite importar una clase o paquete?
+
+A) include
+B) using
+C) import
+D) package
+
+Respuesta correcta: C) import.
+
+46\. ¿Qué método permite conocer la longitud de una cadena String?
+
+A) length()
+B) size()
+C) count()
+D) getLength()
+
+Respuesta correcta: A) length().
+
+47. ¿Qué método permite comparar el contenido de dos cadenas String?
+
+A) ==
+B) compare
+C) equals()
+D) same()
+
+Respuesta correcta: C) equals().
+
+48. ¿Qué es el garbage collector en Java?
+
+A) Un compilador
+B) Un mecanismo que libera memoria de objetos que ya no son alcanzables
+C) Un editor de código
+D) Un tipo de variable
+
+Respuesta correcta: B) Un mecanismo que libera memoria de objetos que ya no son alcanzables.
+
+49. ¿Qué herramienta convierte el código fuente Java en bytecode?
+
+A) JVM
+B) JRE
+C) JDK
+D) Compilador javac
+
+Respuesta correcta: D) Compilador javac.
+
+50. ¿Cuál es una de las principales ventajas de Java?
+
+A) Puede ejecutarse en diferentes plataformas mediante una JVM compatible
+B) Solo funciona en Windows
+C) No necesita compilarse nunca
+D) No permite crear aplicaciones
+
+Respuesta correcta: A) Puede ejecutarse en diferentes plataformas mediante una JVM compatible.
